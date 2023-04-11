@@ -2,3 +2,6 @@
 ```bash
 $ cargo run
 ```
+```bash
+$ cargo build
+```
